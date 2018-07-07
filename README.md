@@ -20,4 +20,4 @@
 
 **Thoughts** : Explaining was pretty good and i learned visualization too.
 
-**Link of Work:**   [Link]()
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%202%20:%20Newton's%20Method%20for%20Logistic%20Regression)
