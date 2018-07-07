@@ -8,7 +8,7 @@
 
 ## Day 1 : July 7 , 2018
  
-**Today's Progress** : I had built a linear regrssion using Gradient Descent from scratch by refering siraj's [How to Do Linear Regression using Gradient Descent](https://www.youtube.com/watch?v=XdM6ER7zTLk).
+**Today's Progress** : I had built a linear regrssion using Gradient Descent from scratch by referring siraj's [How to Do Linear Regression using Gradient Descent](https://www.youtube.com/watch?v=XdM6ER7zTLk).
 
 **Thoughts** : The concept was very good and helped me to write code for complex formulae.
 
