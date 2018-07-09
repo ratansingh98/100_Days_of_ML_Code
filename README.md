@@ -21,3 +21,11 @@
 **Thoughts** : Explaining was pretty good and i learned visualization too.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%202%20:%20Newton's%20Method%20for%20Logistic%20Regression)
+
+## Day 3 : July 9 , 2018
+ 
+**Today's Progress** : I had study a Polynomial Regression and Data Preprocessing.
+
+**Thoughts** : Learn to visualize polynomial regression and processing data for better use.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%203%20:%20Polynomial%20Regression%20and%20Data%20Preprocessing)
