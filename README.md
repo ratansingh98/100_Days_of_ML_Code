@@ -38,3 +38,10 @@
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%204%20:%20Multiple%20Linear%20Regression%20and%20Decision%20Tree%20Regression)
 
+## Day 5 : July 11 , 2018
+ 
+**Today's Progress** : I had studied and built a SVR and Random Forest Regression.
+
+**Thoughts** : Learned to visualize SVR and Random Forest Regression.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%205%20:%20SVR%20and%20Random%20Forest%20Regression)
