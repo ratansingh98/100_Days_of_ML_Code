@@ -36,7 +36,7 @@
 
 **Thoughts** : Learned to visualize Decision Tree Regression and Multiple Linear Regression using Backward Elimination.
 
-**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%204%20:%20Multiple%20Linear%20Regression%20and%20Decision%20Tree%20Regression)
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%204%20:%20Multiple%20Linear%20Regression)
 
 ## Day 5 : July 11 , 2018
  
