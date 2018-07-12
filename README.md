@@ -45,3 +45,11 @@
 **Thoughts** : Learned to visualize SVR and Random Forest Regression.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%205%20:%20SVR%20and%20Random%20Forest%20Regression)
+
+## Day 6 : July 12 , 2018
+ 
+**Today's Progress** : Studied and built K-Nearest, SVM and Kernal SVM.
+
+**Thoughts** : Learned to visualize  K-Nearest, SVM and Kernal SVM.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%206%20:%20K-Nearest%2CSVM%20and%20Kernal%20SVM)
