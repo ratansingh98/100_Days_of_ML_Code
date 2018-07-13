@@ -36,7 +36,7 @@
 
 **Thoughts** : Learned to visualize Decision Tree Regression and Multiple Linear Regression using Backward Elimination.
 
-**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%204%20:%20Multiple%20Linear%20Regression%20and%20Decision%20Tree%20Regression)
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%204%20:%20Multiple%20Linear%20Regression)
 
 ## Day 5 : July 11 , 2018
  
@@ -45,3 +45,11 @@
 **Thoughts** : Learned to visualize SVR and Random Forest Regression.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%205%20:%20SVR%20and%20Random%20Forest%20Regression)
+
+## Day 6 : July 12 , 2018
+ 
+**Today's Progress** : Studied and built K-Nearest, SVM and Kernal SVM.
+
+**Thoughts** : Learned to visualize  K-Nearest, SVM and Kernal SVM.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%206%20:%20K-Nearest%2CSVM%20and%20Kernal%20SVM)
