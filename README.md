@@ -53,3 +53,11 @@
 **Thoughts** : Learned to visualize  K-Nearest, SVM and Kernal SVM.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%206%20:%20K-Nearest%2CSVM%20and%20Kernal%20SVM)
+
+## Day 7 : July 13 , 2018
+ 
+**Today's Progress** : Studied and built Naive Bayes and Decision Tree Classification.
+
+**Thoughts** : Learned to visualize dataset for Naive Bayes and Decision Tree Classification.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%207%20:%20Naive%20Bayes%20and%20Decision%20Tree%20Classification)
