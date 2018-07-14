@@ -26,7 +26,7 @@
  
 **Today's Progress** : I had studied and built a Polynomial Regression and Data Preprocessing model.
 
-**Thoughts** : Learned to visualize polynomial regression and processing data for better use.
+**Thoughts** : Learned to visualize and use polynomial regression and processing data for better use.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%203%20:%20Polynomial%20Regression%20and%20Data%20Preprocessing)
 
@@ -34,7 +34,7 @@
  
 **Today's Progress** : I had studied and built a Multiple Linear Regression and Decision Tree Regression model.
 
-**Thoughts** : Learned to visualize Decision Tree Regression and Multiple Linear Regression using Backward Elimination.
+**Thoughts** : Learned to visualize and use Decision Tree Regression and Multiple Linear Regression using Backward Elimination.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%204%20:%20Multiple%20Linear%20Regression)
 
@@ -42,7 +42,7 @@
  
 **Today's Progress** : I had studied and built a SVR and Random Forest Regression.
 
-**Thoughts** : Learned to visualize SVR and Random Forest Regression.
+**Thoughts** : Learned to visualize and use SVR and Random Forest Regression.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%205%20:%20SVR%20and%20Random%20Forest%20Regression)
 
@@ -50,7 +50,7 @@
  
 **Today's Progress** : Studied and built K-Nearest, SVM and Kernal SVM.
 
-**Thoughts** : Learned to visualize  K-Nearest, SVM and Kernal SVM.
+**Thoughts** : Learned to visualize and use K-Nearest, SVM and Kernal SVM.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%206%20:%20K-Nearest%2CSVM%20and%20Kernal%20SVM)
 
@@ -58,6 +58,14 @@
  
 **Today's Progress** : Studied and built Naive Bayes and Decision Tree Classification.
 
-**Thoughts** : Learned to visualize dataset for Naive Bayes and Decision Tree Classification.
+**Thoughts** : Learned to visualize and use dataset for Naive Bayes and Decision Tree Classification.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%207%20:%20Naive%20Bayes%20and%20Decision%20Tree%20Classification)
+
+## Day 8 : July 14 , 2018
+ 
+**Today's Progress** : Studied and built Random Forest Classification and achieved Competitions Contributor in Kaggle.
+
+**Thoughts** : Learned to visualize and use dataset for Random Forest Classification and kaggle basic.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%208%20:%20Random%20Forest%20Classification/Random%20Forest%20Classification)
