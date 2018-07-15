@@ -72,7 +72,7 @@
 
 ## Day 9 : July 15 , 2018
  
-**Today's Progress** : Built projects on regression for predicting weight for height and classification for obtaining the quality of red or white wine based upon different parametes.
+**Today's Progress** : Built projects on regression for predicting weight for height and classification for obtaining the quality of red or white wine based upon different parameters.
 
 **Thoughts** : Learned to work on the simple projects.
 
