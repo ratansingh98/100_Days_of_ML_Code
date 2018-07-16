@@ -69,3 +69,11 @@
 **Thoughts** : Learned to visualize and use dataset for Random Forest Classification and kaggle basic.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%208%20:%20Random%20Forest%20Classification/Random%20Forest%20Classification)
+
+## Day 9 : July 15 , 2018
+ 
+**Today's Progress** : Built projects on regression for predicting weight for height and classification for obtaining the quality of red or white wine based upon different parameters.
+
+**Thoughts** : Learned to work on the simple projects.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%209%20:%20Project)
