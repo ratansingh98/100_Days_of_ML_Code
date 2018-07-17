@@ -58,8 +58,15 @@
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%209%20:%20Project)
 
-## Day 9 : July 15 , 2018
+## Day 10 : July 16 , 2018
  
-**Today's Progress** : Built projects on regression for predicting weight for height and classification for obtaining the quality of red or white wine based upon different parameters.
+**Today's Progress** : Studied and built K-Means Clustering and Hierarchical Clustering.
 
-**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%209%20:%20Project)
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2010%20:%20Clustering)
+
+## Day 11 : July 17 , 2018
+ 
+**Today's Progress** : Built projects on clustering for Iris Dataset by using K-Means Clustering and Hierarchical Clustering.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2011%20:%20Clustering%20Project)
+
