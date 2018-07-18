@@ -72,6 +72,6 @@
 
 ## Day 12 : July 18 , 2018
  
-**Today's Progress** : Studied and built Apriori system Book Recommendation System .
+**Today's Progress** : Studied and built Apriori System and Book Recommendation System .
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2012%20:%20Apriori/Apriori) and [project](https://drive.google.com/drive/folders/1AZTY_Zg-7_h5TxXq-Q7gnecBgetTiMwJ)
