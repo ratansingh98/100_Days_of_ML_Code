@@ -75,3 +75,9 @@
 **Today's Progress** : Studied and built Apriori System and Book Recommendation System .
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2012%20:%20Apriori/Apriori) and [project](https://drive.google.com/drive/folders/1AZTY_Zg-7_h5TxXq-Q7gnecBgetTiMwJ)
+
+## Day 13 : July 19 , 2018
+ 
+**Today's Progress** : Studied and built Thompson Sampling and Upper Confidence Bound (UCB) Algorithm.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2013%20:%20Reinforcement%20Learning)
