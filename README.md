@@ -64,7 +64,7 @@
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2010%20:%20Clustering)
 
-## Day 11 : July 17 , 2018
+## Day 11 Natural Langague.: July 17 , 2018
  
 **Today's Progress** : Built projects on clustering for Iris Dataset by using K-Means Clustering and Hierarchical Clustering.
 
@@ -81,3 +81,9 @@
 **Today's Progress** : Studied and built Thompson Sampling and Upper Confidence Bound (UCB) Algorithm.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2013%20:%20Reinforcement%20Learning)
+
+## Day 14 : July 20 , 2018
+ 
+**Today's Progress** : Studied and built NLP (Natural Language Processing) for customer reviews.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2014%20:%20Natural%20Language%20Processing)
