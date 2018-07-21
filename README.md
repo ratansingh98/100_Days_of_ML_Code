@@ -87,3 +87,9 @@
 **Today's Progress** : Studied and built NLP (Natural Language Processing) for customer reviews.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2014%20:%20Natural%20Language%20Processing)
+
+## Day 15 : July 21 , 2018
+ 
+**Today's Progress** : Studied and built Artifical Neural Network.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2015%20:%20Artificial%20Neural%20Networks)
