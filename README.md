@@ -93,3 +93,9 @@
 **Today's Progress** : Studied and built Artifical Neural Network.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2015%20:%20Artificial%20Neural%20Networks)
+
+## Day 16 : July 22 , 2018
+ 
+**Today's Progress** : Studied and built Convolutional Neural Network.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2016:%20Convolution%20Neural%20Network)
