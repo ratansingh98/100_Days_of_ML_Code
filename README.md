@@ -64,7 +64,7 @@
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2010%20:%20Clustering)
 
-## Day 11 Natural Langague.: July 17 , 2018
+## Day 11 : July 17 , 2018
  
 **Today's Progress** : Built projects on clustering for Iris Dataset by using K-Means Clustering and Hierarchical Clustering.
 
