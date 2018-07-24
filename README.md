@@ -103,3 +103,9 @@
 ## Day 17 : July 23 , 2018
  
 **Today's Progress** : Configured my PC for GPU(nvidia gtx 1080).
+
+## Day 18 : July 24 , 2018
+ 
+**Today's Progress** : Studied and built Principal Component Analysis (PCA).
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2018%20:%20PCA)
