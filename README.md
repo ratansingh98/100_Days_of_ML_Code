@@ -109,3 +109,9 @@
 **Today's Progress** : Studied and built Principal Component Analysis (PCA).
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2018%20:%20PCA)
+
+## Day 19 : July 25 , 2018
+ 
+**Today's Progress** : Studied and built Linear Discriminant Analysis and Kernel PCA.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2019%20:%20Linear%20Discriminant%20Analysis%20and%20Kernel%20PCA)
