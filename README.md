@@ -115,3 +115,11 @@
 **Today's Progress** : Studied and built Linear Discriminant Analysis and Kernel PCA.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2019%20:%20Linear%20Discriminant%20Analysis%20and%20Kernel%20PCA)
+
+## Day 20 : July 26 , 2018
+ 
+**Today's Progress** : Studied and tried important functions of NLTK.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2020%20:%20Understanding%20NLTK)
+
+
