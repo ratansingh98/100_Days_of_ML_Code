@@ -122,4 +122,8 @@
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2020%20:%20Understanding%20NLTK)
 
+## Day 21 : July 27 , 2018
+ 
+**Today's Progress** : Studied and practice about Time Series.
 
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2021%20:%20Time%20Series)
