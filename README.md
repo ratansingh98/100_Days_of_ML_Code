@@ -127,3 +127,9 @@
 **Today's Progress** : Studied and practice about Time Series.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2021%20:%20Time%20Series)
+
+## Day 22 : July 28 , 2018
+ 
+**Today's Progress** : Studied and practice about Audio Signals and Speech Recognition.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2022%20:%20Speech%20Recognition)
