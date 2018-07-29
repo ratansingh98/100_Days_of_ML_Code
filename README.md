@@ -133,3 +133,9 @@
 **Today's Progress** : Studied and practice about Audio Signals and Speech Recognition.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2022%20:%20Speech%20Recognition)
+
+## Day 23 : July 29 , 2018
+ 
+**Today's Progress** : Studied and practice about Model selection and XGBoost.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2023%20:%20Model%20Selection%20and%20XGBoost)
