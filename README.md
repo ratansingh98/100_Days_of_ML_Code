@@ -139,3 +139,9 @@
 **Today's Progress** : Studied and practice about Model selection and XGBoost.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2023%20:%20Model%20Selection%20and%20XGBoost)
+
+## Day 24 : July 30 , 2018
+ 
+**Today's Progress** : Studied and practice Constraint Satisfaction Problem for AI Game Bot.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2024%20:%20AI%20to%20play%20games)
