@@ -145,3 +145,9 @@
 **Today's Progress** : Studied and practice Constraint Satisfaction Problem for AI Game Bot.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2024%20:%20AI%20to%20play%20games)
+
+## Day 25 : July 31 , 2018
+ 
+**Today's Progress** : Made AI Game Bot for Tic-Tac-Toe by referring video tutorial.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2025%20:%20Tic-Tac-Toe%20Bot)
