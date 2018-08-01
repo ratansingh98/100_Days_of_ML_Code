@@ -151,3 +151,9 @@
 **Today's Progress** : Made AI Game Bot for Tic-Tac-Toe by referring video tutorial.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2025%20:%20Tic-Tac-Toe%20Bot)
+
+## Day 26 : Aug 1 , 2018
+ 
+**Today's Progress** : Studied and practice about Evolutionary Search by referring video tutorial.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2026%20:%20Evolutionary%20Search)
