@@ -157,3 +157,9 @@
 **Today's Progress** : Studied and practice about Evolutionary Search by referring video tutorial.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2026%20:%20Evolutionary%20Search)
+
+## Day 27 : Aug 2 , 2018
+ 
+**Today's Progress** : Studied and practice about Logic Programming and Heuristic Search by referring video tutorial.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2027%20:%20Logic%20Programming%20and%20Heuristic%20Search)
