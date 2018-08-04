@@ -164,8 +164,14 @@
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2027%20:%20Logic%20Programming%20and%20Heuristic%20Search)
 
-## Day 28 : Aug 2 , 2018
+## Day 28 : Aug 3 , 2018
  
 **Today's Progress** : Studied and practice about Genetic Algorithm and Solved array subdomain in hackerrank's Data Structure.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2028%20:%20Genetic%20Algorithm) and [Hacker Rank solved](https://github.com/ratansingh98/HackerRank-DataStructures/tree/master/Arrays)
+
+## Day 29 : Aug 4 , 2018
+ 
+**Today's Progress** : Explore OpenAi Gym and create game bot using neural network for cart game by referring video tutorial.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2029%20:%20OpenAi%20Gym)
