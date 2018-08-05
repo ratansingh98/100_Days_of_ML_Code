@@ -175,3 +175,9 @@
 **Today's Progress** : Explore OpenAi Gym and create game bot using neural network for cart game by referring video tutorial.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2029%20:%20OpenAi%20Gym)
+
+## Day 30 : Aug 5 , 2018
+ 
+**Today's Progress** : Studied and practice about Games with AI by referring video tutorial.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2029%20:%20OpenAi%20Gym)
