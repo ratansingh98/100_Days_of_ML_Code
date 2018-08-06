@@ -181,3 +181,9 @@
 **Today's Progress** : Studied and practice about Games with AI by referring video tutorial.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2030%20:%20Game%20with%20AI)
+
+## Day 31 : Aug 6 , 2018
+ 
+**Today's Progress** : Studied and practice about Neural Networks.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2031%20:%20Neural%20Network)
