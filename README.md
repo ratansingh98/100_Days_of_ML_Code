@@ -187,3 +187,9 @@
 **Today's Progress** : Studied and practice about Neural Networks.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2031%20:%20Neural%20Network)
+
+## Day 32 : Aug 7 , 2018
+ 
+**Today's Progress** : Studied and practice about Convolution,pooling operation and Multilayer convolutional.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2032:%20Convolution%2Cpooling%20operation%20and%20%2CMultilayer%20convolutional)
