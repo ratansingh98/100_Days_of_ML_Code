@@ -196,6 +196,12 @@
 
 ## Day 33 : Aug 8 , 2018
  
-**Today's Progress** : Studied and practice about Studied and practice about  LSTM for Time Series.
+**Today's Progress** : Studied and practice about Studied LSTM for Time Series.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2033%20:%20LSTM%20for%20Time%20Series)
+
+## Day 34 : Aug 9 , 2018
+ 
+**Today's Progress** : Studied practice about chatbot with LSTM by referring [Siraj's Video](https://www.youtube.com/watch?v=t5qgjJIBy9g&t=8s).
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2034%20:%20Chatbot)
