@@ -211,3 +211,7 @@
 **Today's Progress** : Studied and practice about chatbot with reddit dataset.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2035%20:%20Chatbot)
+
+## Day 36 : Aug 11 , 2018
+ 
+**Today's Progress** : Studied about Deep learning theory.
