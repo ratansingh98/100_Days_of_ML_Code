@@ -205,3 +205,9 @@
 **Today's Progress** : Studied practice about chatbot with LSTM by referring [Siraj's Video](https://www.youtube.com/watch?v=t5qgjJIBy9g&t=8s).
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2034%20:%20Chatbot)
+
+## Day 35 : Aug 10 , 2018
+ 
+**Today's Progress** : Studied practice about chatbot with reddit dataset.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2035%20:%20Chatbot)
