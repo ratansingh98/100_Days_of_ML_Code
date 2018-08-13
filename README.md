@@ -215,3 +215,9 @@
 ## Day 36 : Aug 11 , 2018
  
 **Today's Progress** : Studied about Deep learning theory.
+
+## Day 37 : Aug 12 , 2018
+ 
+**Today's Progress** : Studied and practice about Regression on Boston House prediction using neural network.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2037%20:%20Boston%20Housing)
