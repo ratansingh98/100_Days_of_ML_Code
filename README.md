@@ -225,3 +225,7 @@
 ## Day 38 : Aug 13 , 2018
  
 **Today's Progress** : Studied about techniques for improving model for better prediction.
+
+## Day 39 : Aug 14 , 2018
+ 
+**Today's Progress** : Completed all the necessary installation for SpaCy and had glimpse of it .
