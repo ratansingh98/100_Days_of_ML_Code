@@ -235,3 +235,9 @@
 **Today's Progress** : Studied and practice about SpaCy basics.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2040%20:%20SpaCy)
+
+## Day 41 : Aug 16 , 2018
+ 
+**Today's Progress** : Practiced NLP on twitter data.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2041%20:%20NLP%20on%20twitter%20data)
