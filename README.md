@@ -229,3 +229,9 @@
 ## Day 39 : Aug 14 , 2018
  
 **Today's Progress** : Completed all the necessary installation for SpaCy and had glimpse of it .
+
+## Day 40 : Aug 15 , 2018
+ 
+**Today's Progress** : Studied and practice about SpaCy basics.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2040%20:%20SpaCy)
