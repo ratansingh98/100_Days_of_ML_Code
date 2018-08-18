@@ -241,3 +241,9 @@
 **Today's Progress** : Practiced NLP on twitter data.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2041%20:%20NLP%20on%20twitter%20data)
+
+## Day 42 : Aug 17 , 2018
+ 
+**Today's Progress** : Revised Convnet.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2042%20:%20Convnet)
