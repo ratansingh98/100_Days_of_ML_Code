@@ -253,3 +253,9 @@
 **Today's Progress** :  Studied and practice about VGG16.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2043:%20VGG16)
+
+## Day 44 : Aug 19 , 2018
+ 
+**Today's Progress** :  Studied and practice about Recurrent Neural Network.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2044%20:%20Recurrent%20Neural%20Network)
