@@ -247,3 +247,9 @@
 **Today's Progress** : Revised Convnet.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2042%20:%20Convnet)
+
+## Day 43 : Aug 18 , 2018
+ 
+**Today's Progress** :  Studied and practice about VGG16.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2043:%20VGG16)
