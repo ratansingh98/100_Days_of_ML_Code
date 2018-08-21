@@ -259,3 +259,9 @@
 **Today's Progress** :  Studied and practice about Recurrent Neural Network.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2044%20:%20Recurrent%20Neural%20Network)
+
+## Day 45 : Aug 20 , 2018
+ 
+**Today's Progress** :  Studied and practice about LSTM for text generation.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2045%20:%20LSTM%20for%20text%20generation)
