@@ -271,3 +271,9 @@
 **Today's Progress** :  Studied and practice about Deep Dream using VGG16.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2046%20:%20Deep%20Dream)
+
+## Day 47 : Aug 22 , 2018
+ 
+**Today's Progress** :  Studied and practice about AutoEncoders for image.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2047%20:%20AutoEncoders%20for%20image)
