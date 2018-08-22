@@ -265,3 +265,9 @@
 **Today's Progress** :  Studied and practice about LSTM for text generation.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2045%20:%20LSTM%20for%20text%20generation)
+
+## Day 46 : Aug 21 , 2018
+ 
+**Today's Progress** :  Studied and practice about Deep Dream using VGG16.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2046%20:%20Deep%20Dream)
