@@ -277,3 +277,9 @@
 **Today's Progress** :  Studied and practice about AutoEncoders for image.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2047%20:%20AutoEncoders%20for%20image)
+
+## Day 48 : Aug 23 , 2018
+ 
+**Today's Progress** :  Studied and practice about GAN for image generation.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2048%20:%20GAN%20for%20image%20generation)
