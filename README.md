@@ -283,3 +283,7 @@
 **Today's Progress** :  Studied and practice about GAN for image generation.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code/tree/master/days/Day%2048%20:%20GAN%20for%20image%20generation)
+
+## Day 49 : Aug 24 , 2018
+ 
+**Today's Progress** :  Studied about Deep learning in depth.
