@@ -287,3 +287,9 @@
 ## Day 49 : Aug 24 , 2018
  
 **Today's Progress** :  Studied about Deep learning in depth.
+
+## Day 50 : Aug 25 , 2018
+ 
+**Today's Progress** :  Spent time reading **How transferable are features in deep neural networks?**.
+
+**Link of Paper:**   [Link](https://arxiv.org/pdf/1411.1792.pdf)
