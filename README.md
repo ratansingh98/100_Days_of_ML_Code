@@ -293,3 +293,8 @@
 **Today's Progress** :  Spent time reading **How transferable are features in deep neural networks?**.
 
 **Link of Paper:**   [Link](https://arxiv.org/pdf/1411.1792.pdf)
+
+## Day 51 - 100
+
+**Link of Repo:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued)
+
